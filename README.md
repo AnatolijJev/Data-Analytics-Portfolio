@@ -1,6 +1,6 @@
 # 🚀 **Anatolij - Data Analyst Portfolio**  
 
-👋 Hi, I’m Anatolij! With a background in data analysis and a passion for turning data into actionable insights, I’m constantly solving real-world problems using SQL, Python, Excel, and visualization tools like Tableau and Power BI. I enjoy exploring patterns, trends, and business opportunities hidden within data.  
+👋 Hi, I’m Anatolij! With a background in data analysis and a passion for turning data into actionable insights, I’m constantly solving real-world problems using SQL, DAX/M, Excel, and visualization tools like Tableau and Power BI. I enjoy exploring patterns, trends, and business opportunities hidden within data.  
 
 Whether working independently or in teams, I focus on impactful analyses, storytelling, and building meaningful solutions for business growth. On this GitHub, you’ll find some of my most exciting data analytics projects. Let’s explore together!  
 
