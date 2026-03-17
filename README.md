@@ -18,7 +18,7 @@ In my free time, I enjoy working on side projects that involve discovering hidde
 
 - [About Me](#about-me)  
 - [Portfolio Projects](#portfolio-projects)  
-  - [ 1. MarketFlash](https://github.com/AnatolijJev/MarketFlash.git))  
+  - [ 1. MarketFlash](https://github.com/AnatolijJev/MarketFlash.git)
   - [2. Car Data Analysis (Python)](https://github.com/nicomasterschool/Data-Analytics-Portfolio/blob/main/README.md#--2-car-data-analysis-python)  
 - [Education](#education)  
 - [Certificates](#certificates)  
