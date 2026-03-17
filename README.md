@@ -1,4 +1,4 @@
-# 🚀 **Anatolij - Data Analyst Portfolio**  
+# 🚀 **Anatolijs - Data Analyst Portfolio**  
 
 👋 Hi, I’m Anatolij! With a background in data analysis and a passion for turning data into actionable insights, I’m constantly solving real-world problems using SQL, DAX/M, Excel, and visualization tools like Tableau and Power BI. I enjoy exploring patterns, trends, and business opportunities hidden within data.  
 
@@ -8,7 +8,7 @@ Whether working independently or in teams, I focus on impactful analyses, storyt
 
 ## 👨‍💻 **About Me**  
 
-🎓 I’m currently working as a data analyst, combining my technical background with a passion for using data to solve real-world problems. With hands-on experience in data cleaning, transformation, and visualization, I’m always looking to collaborate on new projects and expand my skill set.  
+🎓 With several years of experience as a Business Intelligence Analyst, combining my technical background with a passion for using data to solve real-world problems. With hands-on experience in data cleaning, transformation, and visualization, I’m always looking to collaborate on new projects and expand my skill set.  
 
 In my free time, I enjoy working on side projects that involve discovering hidden patterns and building dashboards to help others make sense of data. I thrive on challenges and am always eager to share insights that lead to better business decisions.  
 
